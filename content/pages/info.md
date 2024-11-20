@@ -109,7 +109,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/'
+            url: 'https://discord.com/invite/9pagBttBBH'
         styles:
           self:
             textAlign: left
