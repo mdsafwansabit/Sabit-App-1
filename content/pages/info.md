@@ -172,12 +172,12 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: CSS
       - type: Label
         label: JavaScript
         url: ''
+      - type: Label
+        label: Microsoft Office
   - type: DividerSection
     styles:
       self:
