@@ -85,7 +85,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://twitter.com/'
+            url: 'https://www.instagram.com/md.safwan.sabit'
         styles:
           self:
             textAlign: left
