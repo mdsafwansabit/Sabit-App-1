@@ -101,7 +101,7 @@ sections:
         actions:
           - type: Link
             label: YouTube
-            url: ''
+            url: 'https://www.youtube.com/@safwan_sabit'
         styles:
           self:
             textAlign: left
