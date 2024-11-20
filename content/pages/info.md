@@ -117,7 +117,7 @@ sections:
         actions:
           - type: Link
             label: Threads
-            url: ''
+            url: 'https://www.threads.net/@md.safwan.sabit'
         styles:
           self:
             textAlign: left
