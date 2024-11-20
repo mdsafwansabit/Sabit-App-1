@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
+            label: YouTube
             url: ''
         styles:
           self:
