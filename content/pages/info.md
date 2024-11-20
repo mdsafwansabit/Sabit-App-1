@@ -175,6 +175,9 @@ sections:
         label: CSS
       - type: Label
         label: Python
+      - type: Label
+        label: JavaScript
+        url: ''
   - type: DividerSection
     styles:
       self:
