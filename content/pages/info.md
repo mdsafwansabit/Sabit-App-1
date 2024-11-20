@@ -168,7 +168,7 @@ sections:
       - type: Label
         label: Next.js
       - type: Label
-        label: Netlify
+        label: Java
       - type: Label
         label: Pancakes
       - type: Label
