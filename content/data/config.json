@@ -15,9 +15,9 @@
             },
             {
                 "type": "Link",
-                "label": "Page-1",
+                "label": "Learn more",
                 "altText": "",
-                "url": "/app-page-1",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -25,9 +25,9 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Page-1",
                 "altText": "",
-                "url": "/contact",
+                "url": "/app-page-1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
