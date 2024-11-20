@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Instagram
+            label: Thread
             url: Thread
         styles:
           self:
