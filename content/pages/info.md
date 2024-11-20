@@ -117,7 +117,7 @@ sections:
         actions:
           - type: Link
             label: Thread
-            url: Thread
+            url: ''
         styles:
           self:
             textAlign: left
