@@ -174,7 +174,7 @@ sections:
       - type: Label
         label: CSS
       - type: Label
-        label: Swift
+        label: Python
   - type: DividerSection
     styles:
       self:
