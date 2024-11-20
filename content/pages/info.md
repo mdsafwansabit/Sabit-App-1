@@ -76,7 +76,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: Facebook
             url: 'https://github.com/'
         styles:
           self:
