@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Safwan Sabit - Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
