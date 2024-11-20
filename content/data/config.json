@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "Page-1",
                 "altText": "",
-                "url": "Page-1",
+                "url": "/app-page-1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
