@@ -164,8 +164,6 @@ sections:
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: Next.js
       - type: Label
         label: Java
@@ -173,6 +171,8 @@ sections:
         label: Python
       - type: Label
         label: HTML
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: CSS
       - type: Label
