@@ -7,9 +7,12 @@ sections:
     variant: variant-a
     title: Contact
     subtitle: ''
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      Email: mdsafwansabitofficial\@gmail.com
+
+      Phone Number: 01603-352623
+
+      Office: Nazipur, Rajshahi, Bangladesh
     elementId: ''
     styles:
       self:
