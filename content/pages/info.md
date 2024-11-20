@@ -93,7 +93,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: ''
         styles:
           self:
             textAlign: left
