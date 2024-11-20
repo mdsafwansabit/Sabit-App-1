@@ -93,7 +93,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: ''
+            url: '#'
         styles:
           self:
             textAlign: left
@@ -101,7 +101,7 @@ sections:
         actions:
           - type: Link
             label: YouTube
-            url: ''
+            url: 'https://www.youtube.com/@safwan_sabit'
         styles:
           self:
             textAlign: left
@@ -116,8 +116,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Thread
-            url: ''
+            label: Threads
+            url: 'https://www.threads.net/@md.safwan.sabit'
         styles:
           self:
             textAlign: left
