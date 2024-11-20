@@ -7,9 +7,17 @@ sections:
     variant: variant-a
     title: Welcome
     subtitle: আসসালামু আলাইকুম
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      যেকোনো ধরনের পাওয়ারফুল, হাই-স্পিড ওয়েব-অ্যাপ বানাতে চাইলে আমার সাথে
+      যোগাযোগ করুন
+
+
+      Email: mdsafwansabitofficial\@gmail.com
+
+      Phone Number: 01603-352623
+
+
+      Office: Nazipur, Rajshahi, Bangladesh
     elementId: ''
     styles:
       self:
