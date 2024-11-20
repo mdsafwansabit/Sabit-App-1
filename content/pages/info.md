@@ -77,7 +77,7 @@ sections:
         actions:
           - type: Link
             label: Facebook
-            url: 'https://github.com/'
+            url: 'https://www.facebook.com/safwansabit99'
         styles:
           self:
             textAlign: left
