@@ -172,7 +172,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: C++
+        label: CSS
       - type: Label
         label: Swift
   - type: DividerSection
