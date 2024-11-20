@@ -170,11 +170,11 @@ sections:
       - type: Label
         label: Java
       - type: Label
+        label: Python
+      - type: Label
         label: HTML
       - type: Label
         label: CSS
-      - type: Label
-        label: Python
       - type: Label
         label: JavaScript
         url: ''
