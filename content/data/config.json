@@ -50,12 +50,6 @@
                 "label": "Contact",
                 "url": "mailto:mdsafwansabitofficial@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
             }
         ],
         "contacts": {
