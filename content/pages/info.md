@@ -213,18 +213,15 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2022-Present**
 
-          * ba computer sciense at a semi fancy school
+          *   High School Education
 
-          **2014**
+          **2015-2021**
 
-          * react certificate somewhere
+          *   Primary Education
 
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
