@@ -51,13 +51,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Email",
                 "url": "mailto:mdsafwansabitofficial@gmail.com",
                 "altText": ""
             }

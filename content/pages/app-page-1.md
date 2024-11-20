@@ -12,7 +12,8 @@ sections:
       যোগাযোগ করুন
 
 
-      Email: mdsafwansabitofficial\@gmail.com
+      Email: <mdsafwansabitofficial@gmail.com>
+
 
       Phone Number: 01603-352623
 
