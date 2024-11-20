@@ -170,7 +170,7 @@ sections:
       - type: Label
         label: Java
       - type: Label
-        label: Pancakes
+        label: HTML
       - type: Label
         label: C++
       - type: Label
