@@ -101,7 +101,7 @@ sections:
         actions:
           - type: Link
             label: CodePen
-            url: 'https://codepen.io/'
+            url: ''
         styles:
           self:
             textAlign: left
