@@ -27,17 +27,17 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "Facebook",
                 "label": "Facebook",
                 "url": "https://www.facebook.com/safwansabit99",
                 "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/netlify",
+                "icon": "twitter"
             }
         ],
         "styles": {
