@@ -116,7 +116,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Thread
+            label: Threads
             url: ''
         styles:
           self:
