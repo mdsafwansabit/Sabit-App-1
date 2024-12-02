@@ -8,7 +8,7 @@ sections:
       The Article is about Venn diagram
     actions:
       - type: Button
-        label: Try it now
+        label: Read
         altText: ''
         url: /
         showIcon: true
