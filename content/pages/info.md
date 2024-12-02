@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Safwan Sabit - About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
