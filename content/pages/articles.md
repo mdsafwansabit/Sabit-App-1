@@ -17,7 +17,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
