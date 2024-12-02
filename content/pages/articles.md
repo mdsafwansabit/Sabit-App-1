@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Articles
+title: Safwan Sabit - Articles
 sections:
   - type: TextSection
     colors: colors-f
