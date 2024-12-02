@@ -4,9 +4,8 @@ title: Articles
 sections:
   - type: CtaSection
     title: Venn diagram
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      The Article is about Venn diagram
     actions:
       - type: Button
         label: Try it now
