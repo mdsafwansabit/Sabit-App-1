@@ -30,6 +30,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'What is '
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
