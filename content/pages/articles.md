@@ -10,7 +10,7 @@ sections:
       - type: Button
         label: Read
         altText: ''
-        url: /
+        url: /venn-diagram
         showIcon: true
         icon: arrowRight
         iconPosition: right
