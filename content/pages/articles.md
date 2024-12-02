@@ -3,7 +3,7 @@ type: PageLayout
 title: Articles
 sections:
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
