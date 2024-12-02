@@ -25,9 +25,9 @@
             },
             {
                 "type": "Link",
-                "label": "Page-1",
+                "label": "Articles",
                 "altText": "",
-                "url": "/app-page-1",
+                "url": "/articles",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
