@@ -30,7 +30,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitle: 'What is '
+    subtitle: What is Venn Diagram?
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
