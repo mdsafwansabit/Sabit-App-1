@@ -162,15 +162,15 @@ sections:
       - type: Label
         label: CSS
       - type: Label
+        label: PHP
+        url: ''
+      - type: Label
         label: JavaScript
         url: ''
       - type: Label
         label: Microsoft Office
       - type: Label
         label: TypeScript
-        url: ''
-      - type: Label
-        label: PHP
         url: ''
   - type: DividerSection
     styles:
