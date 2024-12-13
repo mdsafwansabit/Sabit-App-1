@@ -168,10 +168,10 @@ sections:
         label: JavaScript
         url: ''
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: TypeScript
         url: ''
+      - type: Label
+        label: Microsoft Office
   - type: DividerSection
     styles:
       self:
