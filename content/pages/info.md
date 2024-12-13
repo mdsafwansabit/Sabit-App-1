@@ -58,18 +58,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -162,7 +150,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: React.js
       - type: Label
         label: Next.js
       - type: Label
@@ -174,7 +162,13 @@ sections:
       - type: Label
         label: CSS
       - type: Label
+        label: PHP
+        url: ''
+      - type: Label
         label: JavaScript
+        url: ''
+      - type: Label
+        label: TypeScript
         url: ''
       - type: Label
         label: Microsoft Office
