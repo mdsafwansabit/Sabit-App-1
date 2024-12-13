@@ -150,7 +150,7 @@ sections:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: React.js
       - type: Label
         label: Next.js
       - type: Label
