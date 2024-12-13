@@ -166,6 +166,9 @@ sections:
         url: ''
       - type: Label
         label: Microsoft Office
+      - type: Label
+        label: TypeScript
+        url: ''
   - type: DividerSection
     styles:
       self:
