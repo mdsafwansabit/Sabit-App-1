@@ -54,13 +54,18 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      CPU: Intel Core i3 10th Gen (Minimum) / AMD Ryzen 3 3100 (Minimum), Intel
+      Core i5 12th Gen (Recommended) / AMD Ryzen 5 5600X (Recommended)
+
+
+      RAM: 8 GB (Minimum), 16 GB (Recommended)
+
+
+      GPU: RX 5500 XT 8 GB (Minimum), RTX 4060 Ti 16GB (Recommended)
+
+
+      Storage: 1 GB (SSD Recommended)
     elementId: ''
     styles:
       self:
