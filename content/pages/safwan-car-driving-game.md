@@ -108,9 +108,6 @@ sections:
       - type: Label
         label: Download from TeraBox Drive
         url: 'https://terabox.com/s/1DDTU2qYxc0xRvgKa_bcbMg'
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
