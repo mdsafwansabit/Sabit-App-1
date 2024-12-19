@@ -31,7 +31,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Screenshot (44).png
-        altText: altText of the image
+        altText: ''
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
