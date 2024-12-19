@@ -2,28 +2,40 @@
 type: PageLayout
 title: Safwan Car Driving Game
 sections:
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
+  - type: MediaGallerySection
     title: Safwan Car Driving Game
     subtitle: ''
-    text: ''
+    images:
+      - type: ImageBlock
+        url: /images/Screenshot (44).png
+        altText: ''
+        caption: ''
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Screenshot (45).png
+        altText: ''
+        caption: ''
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
     elementId: ''
     styles:
       self:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
       title:
         textAlign: center
       subtitle:
-        textAlign: center
-      text:
         textAlign: center
 addTitleSuffix: true
 colors: colors-a
