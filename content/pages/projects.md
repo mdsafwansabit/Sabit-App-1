@@ -40,9 +40,8 @@ sections:
         borderWidth: 1
   - type: CtaSection
     title: Safwan Car Driving Game
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      This project is about Safwan Car Driving Game
     actions:
       - type: Button
         label: Try it now
