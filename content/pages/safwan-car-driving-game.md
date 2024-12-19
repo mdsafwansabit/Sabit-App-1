@@ -102,7 +102,7 @@ sections:
     subtitle: Download
     items:
       - type: Label
-        label: Pancakes
+        label: Download from Mega Drive
         url: ''
       - type: Label
         label: C++
