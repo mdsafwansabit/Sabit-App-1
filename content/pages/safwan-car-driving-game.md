@@ -37,6 +37,66 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: ''
+    text: >
+      CPU: Intel Core i3 10th Gen (Minimum) / AMD Ryzen 3 3100 (Minimum), Intel
+      Core i5 12th Gen (Recommended) / AMD Ryzen 5 5600X (Recommended)
+
+
+      RAM: 8 GB (Minimum), 16 GB (Recommended)
+
+
+      GPU: RX 5500 XT 8 GB (Minimum), RTX 4060 Ti 16GB (Recommended)
+
+
+      Storage: 1 GB (SSD Recommended)
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+    subtitle: System Requirements
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
