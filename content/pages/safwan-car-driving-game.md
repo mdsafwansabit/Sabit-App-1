@@ -97,6 +97,33 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
+  - type: LabelsSection
+    title: ''
+    subtitle: Download
+    items:
+      - type: Label
+        label: Download from Mega Drive
+        url: >-
+          https://mega.nz/file/6dcUFbIR#fu7kZ9IL-rX2AQIJN6TYo1iTlRTZW2H8P7kTkfE72RM
+      - type: Label
+        label: Download from TeraBox Drive
+        url: 'https://terabox.com/s/1DDTU2qYxc0xRvgKa_bcbMg'
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
