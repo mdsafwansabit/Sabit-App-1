@@ -44,7 +44,7 @@ sections:
       This project is about Safwan Car Driving Game
     actions:
       - type: Button
-        label: Try it now
+        label: Open Project
         altText: ''
         url: /safwan-car-driving-game
         showIcon: true
