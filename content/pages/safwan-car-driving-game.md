@@ -107,7 +107,7 @@ sections:
           https://mega.nz/file/6dcUFbIR#fu7kZ9IL-rX2AQIJN6TYo1iTlRTZW2H8P7kTkfE72RM
       - type: Label
         label: Download from TeraBox
-        url: ''
+        url: 'https://terabox.com/s/1DDTU2qYxc0xRvgKa_bcbMg'
       - type: Label
         label: Swift
         url: ''
