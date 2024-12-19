@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: /safwan-car-driving-game
         showIcon: true
         icon: arrowRight
         iconPosition: right
