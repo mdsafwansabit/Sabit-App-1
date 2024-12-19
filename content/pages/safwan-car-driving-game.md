@@ -26,7 +26,7 @@ sections:
       text:
         textAlign: center
   - type: MediaGallerySection
-    title: ''
+    title: Safwan Car Driving Game
     subtitle: ''
     images:
       - type: ImageBlock
