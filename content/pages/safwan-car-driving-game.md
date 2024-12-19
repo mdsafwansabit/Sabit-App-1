@@ -78,6 +78,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: System Requirements
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
