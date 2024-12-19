@@ -32,7 +32,7 @@ sections:
       - type: ImageBlock
         url: /images/Screenshot (44).png
         altText: ''
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: /images/Screenshot (45).png
