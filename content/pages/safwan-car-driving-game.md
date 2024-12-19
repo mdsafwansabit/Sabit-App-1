@@ -99,7 +99,7 @@ sections:
         borderWidth: 1
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: Download
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
