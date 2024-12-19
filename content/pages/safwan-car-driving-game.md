@@ -36,7 +36,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/Screenshot (45).png
-        altText: altText of the image
+        altText: ''
         caption: Caption of the image
         elementId: ''
     colors: colors-f
