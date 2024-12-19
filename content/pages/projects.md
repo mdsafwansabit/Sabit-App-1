@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Safwan Car Driving Game
+    title: Projects
     subtitle: ''
     text: ''
     elementId: ''
