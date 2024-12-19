@@ -102,9 +102,6 @@ sections:
     subtitle: Download
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
-        url: ''
-      - type: Label
         label: Next.js
         url: ''
       - type: Label
