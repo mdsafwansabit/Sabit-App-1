@@ -102,9 +102,6 @@ sections:
     subtitle: Download
     items:
       - type: Label
-        label: Next.js
-        url: ''
-      - type: Label
         label: Pancakes
         url: ''
       - type: Label
