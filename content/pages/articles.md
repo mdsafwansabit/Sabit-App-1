@@ -39,7 +39,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    title: পড়া বনাম লেখা
+    title: Reading vs Writing
     text: |
       A short nobel written by Safwan Sabit
     actions:
