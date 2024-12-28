@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Read
         altText: ''
-        url: /
+        url: /reading-vs-writing
         showIcon: true
         icon: arrowRight
         iconPosition: right
