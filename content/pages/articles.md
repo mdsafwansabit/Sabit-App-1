@@ -44,7 +44,7 @@ sections:
       A short nobel written by Safwan Sabit
     actions:
       - type: Button
-        label: Read
+        label: Read Now
         altText: ''
         url: /reading-vs-writing
         showIcon: true
