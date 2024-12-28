@@ -41,7 +41,7 @@ sections:
   - type: CtaSection
     title: Reading vs Writing
     text: |
-      A short nobel written by Safwan Sabit
+      A short novel written by Safwan Sabit
     actions:
       - type: Button
         label: Read Now
