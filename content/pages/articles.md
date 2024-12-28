@@ -39,7 +39,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: CtaSection
-    title: Let's do this
+    title: পড়া বনাম লেখা
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
