@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: পড়া বনাম লেখা
-    subtitle: The section subtitle
+    subtitle: লেখকঃ সাফওয়ান সাবিত
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
