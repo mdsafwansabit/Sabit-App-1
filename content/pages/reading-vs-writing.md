@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: পড়া বনাম লেখা
-    subtitle: The section subtitle
+    subtitle: লেখকঃ সাফওয়ান সাবিত
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
